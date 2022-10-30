@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mig5rKk1elhyo1q7F/29LAsggxkJp9LsE6fNm9eV9EaMhd5bbTbhetqOkOiTl+lNa6p8yUGpGhRF5C6Uq5x/8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\solom\\source\\repos\\WebParse+Getjson\\WebParse+Getjson\\WebParse+Getjson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solom\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

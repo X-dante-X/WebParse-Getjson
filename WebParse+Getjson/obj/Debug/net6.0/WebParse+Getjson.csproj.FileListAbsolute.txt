@@ -1,0 +1,17 @@
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\bin\Debug\net6.0\WebParse+Getjson.exe
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\bin\Debug\net6.0\WebParse+Getjson.deps.json
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\bin\Debug\net6.0\WebParse+Getjson.runtimeconfig.json
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\bin\Debug\net6.0\WebParse+Getjson.dll
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\bin\Debug\net6.0\WebParse+Getjson.pdb
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\obj\Debug\net6.0\WebParse+Getjson.csproj.AssemblyReference.cache
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\obj\Debug\net6.0\WebParse+Getjson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\obj\Debug\net6.0\WebParse+Getjson.AssemblyInfoInputs.cache
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\obj\Debug\net6.0\WebParse+Getjson.AssemblyInfo.cs
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\obj\Debug\net6.0\WebParse+Getjson.csproj.CoreCompileInputs.cache
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\obj\Debug\net6.0\WebParse+Getjson.csproj.CopyComplete
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\obj\Debug\net6.0\WebParse+Getjson.dll
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\obj\Debug\net6.0\refint\WebParse+Getjson.dll
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\obj\Debug\net6.0\WebParse+Getjson.pdb
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\obj\Debug\net6.0\WebParse+Getjson.genruntimeconfig.cache
+C:\Users\solom\source\repos\WebParse+Getjson\WebParse+Getjson\obj\Debug\net6.0\ref\WebParse+Getjson.dll
